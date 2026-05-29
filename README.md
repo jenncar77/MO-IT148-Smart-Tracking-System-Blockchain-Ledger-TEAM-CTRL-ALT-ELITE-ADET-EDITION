@@ -3,7 +3,7 @@
 **Section:** H3101  
 **Team:** TEAM CTRL+ALT+ELITE ADET EDITION
 
-This student project stores simulated smart logistics IoT records on a local Ethereum blockchain using Ganache, Remix IDE, Solidity, Python, pandas, and Web3.py.
+This project stores simulated smart logistics IoT records on a local Ethereum blockchain using Ganache, Remix IDE, Solidity, Python, pandas, and Web3.py.
 
 ## Files
 
@@ -47,4 +47,4 @@ Do not run the full upload script again against the same deployed contract. The 
 
 ## Remarks
 
-This repository contains the student project output of TEAM CTRL+ALT+ELITE ADET EDITION for MO-IT148. The documented values are based on the team's local Ganache blockchain transactions and IoT CSV dataset.
+This repository contains the project output of TEAM CTRL+ALT+ELITE ADET EDITION for MO-IT148. The documented values are based on the team's local Ganache blockchain transactions and IoT CSV dataset.
