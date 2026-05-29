@@ -9,8 +9,7 @@ This project stores simulated smart logistics IoT records on a local Ethereum bl
 
 - `IoTDataStorage.sol` - Solidity smart contract deployed through Remix IDE.
 - `week5_milestone1_submission.py` - Python script that reads the CSV and submits each row to the blockchain.
-- `MO-IT148 Homework_ IoT Data Simulation H3101 TEAM CTRL+ALT+ELITE ADET EDITION.csv` - Simulated logistics IoT dataset.
-- `milestone1_worksheet_answers.md` - Milestone worksheet answers and recorded outputs.
+
 
 ## Setup
 
