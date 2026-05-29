@@ -3,14 +3,14 @@
 **Section:** H3101  
 **Team:** TEAM CTRL+ALT+ELITE ADET EDITION
 
-This project stores simulated smart logistics IoT records on a local Ethereum blockchain using Ganache, Remix IDE, Solidity, Python, pandas, and Web3.py.
+This student project stores simulated smart logistics IoT records on a local Ethereum blockchain using Ganache, Remix IDE, Solidity, Python, pandas, and Web3.py.
 
 ## Files
 
 - `IoTDataStorage.sol` - Solidity smart contract deployed through Remix IDE.
 - `week5_milestone1_submission.py` - Python script that reads the CSV and submits each row to the blockchain.
 - `MO-IT148 Homework_ IoT Data Simulation H3101 TEAM CTRL+ALT+ELITE ADET EDITION.csv` - Simulated smart logistics IoT dataset containing 80 records.
-- `milestone1_worksheet_answers.md` - Verified worksheet values for the Milestone 1 submission.
+- `milestone1_worksheet_answers.md` - Worksheet values used for the Milestone 1 submission.
 
 ## Setup
 
@@ -44,3 +44,7 @@ The two records already present were manual Remix test records. Adding the 80 CS
 ## Important Note
 
 Do not run the full upload script again against the same deployed contract. The smart contract has a maximum capacity of `100` records, and rerunning the script would create duplicate entries until the limit is reached.
+
+## Remarks
+
+This repository contains the student project output of TEAM CTRL+ALT+ELITE ADET EDITION for MO-IT148. The documented values are based on the team's local Ganache blockchain transactions and IoT CSV dataset.
